@@ -1,5 +1,8 @@
 # VBlog
 ![](https://img.shields.io/badge/vue-2.5.2-brightgreen.svg) ![](https://img.shields.io/badge/element--ui-2.3.5-brightgreen.svg) ![](https://img.shields.io/badge/vant-1.1.2-brightgreen.svg)
+
+使用github gist api 无需任何服务器 搭建一个可动态发布文章的个人博客
+
 ## 目录
 - [简介](#简介)
 - [演示地址](#演示地址)
@@ -16,7 +19,7 @@
 
 
 ## 演示地址
-[https://github-laziji.github.io][1]
+[https://Lengsir.github.io][1]
 
 ## 项目源码
 [https://github.com/GitHub-Laziji/vblog][3]
@@ -84,10 +87,10 @@
 - 克隆完成后 修改文件 ```/static/configuration.json``` 中的 ```githubUsername``` 为自己的github用户名
 
 
-类似演示地址其中 GitHub-Laziji 为我的用户名
+类似演示地址其中 Lengsir 为我的用户名
 
 
-现在 ```https://你的用户名.github.io``` 就是你的个人博客了,例如[https://github-laziji.github.io][1]
+现在 ```https://你的用户名.github.io``` 就是你的个人博客了,例如[https://Lengsir.github.io][1]
 
 
 
